@@ -11,6 +11,15 @@ entries:
     - https://github.com/evanshortiss/orchestrator-serverless-workflows/releases/download/create-ocp-namespace-swt-20251001174806/create-ocp-namespace-swt-20251001174806.tgz
     version: "20251001174806"
   - apiVersion: v2
+    created: "2025-10-01T18:57:21.229046156Z"
+    description: A Helm chart for Kubernetes
+    digest: cddb75620c8107aa1dec49816dd389e966dc7e2a8ca8b2e2f691325c54b50929
+    name: create-ocp-namespace-swt
+    type: application
+    urls:
+    - https://github.com/evanshortiss/orchestrator-serverless-workflows/releases/download/create-ocp-namespace-swt-0.1.2/create-ocp-namespace-swt-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     created: "2025-10-01T18:40:53.816767219Z"
     description: A Helm chart for Kubernetes
     digest: 94026a4a8e2d735511d1e7a508fddacad34a757e13a942ff468d7d97647ffcb8
@@ -28,4 +37,4 @@ entries:
     urls:
     - https://github.com/evanshortiss/orchestrator-serverless-workflows/releases/download/create-ocp-namespace-swt-0.1.0/create-ocp-namespace-swt-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-01T18:40:53.816780755Z"
+generated: "2025-10-01T18:57:21.229066414Z"
