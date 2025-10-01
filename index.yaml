@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  create-ocp-namespace-swt:
+  - apiVersion: v2
+    created: "2025-10-01T17:48:10.13370476Z"
+    description: A Helm chart for Kubernetes
+    digest: 9a85d7ba3644ec8a9a01018bdac3b66b20faa348e83d361e961c823c0048500e
+    name: create-ocp-namespace-swt
+    type: application
+    urls:
+    - https://github.com/evanshortiss/orchestrator-serverless-workflows/releases/download/create-ocp-namespace-swt-20251001174806/create-ocp-namespace-swt-20251001174806.tgz
+    version: "20251001174806"
+generated: "2025-10-01T17:48:10.133714718Z"
